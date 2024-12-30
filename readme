@@ -1,0 +1,44 @@
+RoboSpeaker 1.1
+A simple text-to-speech program created by Sonu.
+
+Features:
+Converts text input to speech using pyttsx3.
+Enter text and the program will speak it out loud.
+Type "q" to exit the program.
+
+Installation:
+
+ Install pyttsx3 library:
+
+        pip install pyttsx3
+
+Usage:
+Run the script.
+Enter text to hear it spoken.
+Type "q" to quit.
+
+
+2. weather app
+Features: just gives your cities name . it tells you how is the temprature now
+
+for fectching api 
+import  requests module
+
+        pip install requests
+
+for text to speech 
+import  pyttsx3 module
+
+        pip install pyttx3
+
+for UI
+import tkinter module
+
+        pip install tkinter
+
+3. PDF merger
+Features:  merge multiple pdf into one pdf
+
+install PyPDF2 package 
+
+        pip install PyPDF2
